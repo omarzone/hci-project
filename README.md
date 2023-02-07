@@ -1,4 +1,4 @@
-# HCI Project
+# HCI Project Team #3
 
 # Brief
 Our focus is on the lack of confidence, anxiety or fear that some university students feel when they want to have a conversation in English and how this emotions stops them from doing it.

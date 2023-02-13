@@ -7,7 +7,7 @@ Al final de la semana se automatizará un gráfico en donde se verá la contribu
 
 
 
-Guión
+# Guión
 ¿Ha observado que los estudiantes jóvenes tienen dificultades para confiar en su habilidad para hablar inglés con otras personas?
 
 ¿Qué estrategias suele utilizar para ayudar a los estudiantes a superar estos problemas de confianza?
@@ -17,8 +17,8 @@ Guión
 ¿Cuál considera usted una forma para poder motivar a alumnos universitarios a practicar su inglés?
 
 
-Resultados de la entrevista
-Maestra:
+# Resultados de la entrevista
+## Maestra:
 ¿Ha observado que los estudiantes jóvenes tienen dificultades para confiar en su habilidad para hablar inglés con otras personas?
 Si
 ¿Qué estrategias suele utilizar para ayudar a los estudiantes a superar estos problemas de confianza?
@@ -28,7 +28,7 @@ Si, los alumnos menos extrovertidos en su idioma natal son a los que tienen mayo
 ¿Cuál considera usted una forma para poder motivar a alumnos universitarios a practicar su inglés?
 Hablarles de los diversos programas de intercambio que tienen las universidades para que ellos se motiven a tener el inglés y poder conocer y vivir otras experiencias.
 
-Psicóloga
+## Psicóloga
 ¿Ha observado que los estudiantes jóvenes tienen dificultades para confiar en su habilidad para hablar inglés con otras personas? 
 Sí, es común que los estudiantes jóvenes tengan dificultades para confiar en su habilidad para hablar inglés con otras personas. Esto puede ser debido a una variedad de factores, como el miedo a cometer errores, la falta de práctica o la falta de confianza en su habilidad para comunicarse efectivamente.
 ¿Qué estrategias suele utilizar para ayudar a los estudiantes a superar estos problemas de confianza?
@@ -42,7 +42,7 @@ Considero que una forma efectiva de motivar a los estudiantes universitarios a p
 
 
 
-Puntos clave y justificación
+# Puntos clave y justificación
 
 La falta de confianza en el habla del inglés es un problema común entre los estudiantes jóvenes. 
 Justificación: La falta de confianza puede ser un obstáculo para el desarrollo de la habilidad de hablar un idioma extranjero, por lo que es importante abordar este problema para ayudar a los estudiantes a mejorar su habilidad.
@@ -64,20 +64,20 @@ Documentos de referencia:
 . (ed.gov)
 
 
-Estrategias
-Práctica frecuente y oportunidades de hablar en grupo: Alentar a los estudiantes a participar en discusiones en grupos pequeños y en proyectos finales que requieren presentaciones públicas puede ayudar a desarrollar su confianza en el habla del inglés.
-Fomentar la participación: Alentar a los estudiantes a participar activamente en clase y en discusiones en grupo puede ayudarles a desarrollar su habilidad de hablar inglés y aumentar su confianza.
-Enfatizar la mejora en lugar del error: En lugar de enfocarse en los errores que los estudiantes cometen al hablar en inglés, enfatice su progreso y su habilidad para mejorar.
-Proporcionar un ambiente seguro y sin juicio: Al crear un ambiente de aprendizaje seguro y sin juicio, los estudiantes se sienten más cómodos al hablar en inglés y están más dispuestos a participar activamente en clase.
-Compartir información sobre programas de intercambio: Al hablar con los estudiantes sobre los diversos programas de intercambio universitarios, puedes motivarlos a practicar su inglés y aumentar su confianza al hablar en público.
-Ofrecer retroalimentación constructiva: Al brindar retroalimentación constructiva y alentadora, los estudiantes se sienten más motivados a mejorar su habilidad de hablar inglés y a aumentar su confianza.
+#Estrategias
+- Práctica frecuente y oportunidades de hablar en grupo: Alentar a los estudiantes a participar en discusiones en grupos pequeños y en proyectos finales que requieren presentaciones públicas puede ayudar a desarrollar su confianza en el habla del inglés.
+- Fomentar la participación: Alentar a los estudiantes a participar activamente en clase y en discusiones en grupo puede ayudarles a desarrollar su habilidad de hablar inglés y aumentar su confianza.
+- Enfatizar la mejora en lugar del error: En lugar de enfocarse en los errores que los estudiantes cometen al hablar en inglés, enfatice su progreso y su habilidad para mejorar.
+- Proporcionar un ambiente seguro y sin juicio: Al crear un ambiente de aprendizaje seguro y sin juicio, los estudiantes se sienten más cómodos al hablar en inglés y están más dispuestos a participar activamente en clase.
+- Compartir información sobre programas de intercambio: Al hablar con los estudiantes sobre los diversos programas de intercambio universitarios, puedes motivarlos a practicar su inglés y aumentar su confianza al hablar en público.
+- Ofrecer retroalimentación constructiva: Al brindar retroalimentación constructiva y alentadora, los estudiantes se sienten más motivados a mejorar su habilidad de hablar inglés y a aumentar su confianza.
 
 
 
 Avances
-Explicar nuestro proceso para capturar puntos de vista de personas relacionadas a nuestra problemática (Psicóloga y maestra)
-Puntos clave que pudimos analizar en la entrevista y porque deberíamos atacarlos
-Explicar las estrategias que desarrollamos en base a los puntos clave
+- Explicar nuestro proceso para capturar puntos de vista de personas relacionadas a nuestra problemática (Psicóloga y maestra)
+- Puntos clave que pudimos analizar en la entrevista y porque deberíamos atacarlos
+- Explicar las estrategias que desarrollamos en base a los puntos clave
 
 
 Artefacto

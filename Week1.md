@@ -1,4 +1,4 @@
-Primera semana proyecto HCI
+# Primera semana proyecto HCI
 
 Metodología
 Nosotros vamos a utilizar herramientas como Monday y Github, para documentar todos nuestros avances y aportes en la investigación del problema.

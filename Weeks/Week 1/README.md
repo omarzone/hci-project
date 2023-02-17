@@ -1,6 +1,21 @@
 # Primera semana proyecto HCI
 
+**Index**   
+1. [Brief](#id1)
+2. [Script for the interview](src/int-script.md)
+3. [Interview Results](src/int-results.md)
+4. [Key points](src/keypoints.md)
+5. [Strategies to solve the problem](src/strategies.md)
+
+
+## Brief<a name="id1"></a>
+Our focus is on the lack of confidence, anxiety or fear that some university students feel when they want to have a conversation in English and how this emotions stops them from doing it.
+
+
+# Primera semana proyecto HCI
+
 Metodología
+
 Nosotros vamos a utilizar herramientas como Monday y Github, para documentar todos nuestros avances y aportes en la investigación del problema.
 Nuestra métrica de contribución es simple, las tareas tienen asignado un número equivalente a la complejidad de la misma. 
 Al final de la semana se automatizará un gráfico en donde se verá la contribución de cada uno de los integrantes.

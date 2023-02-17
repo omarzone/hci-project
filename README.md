@@ -1,15 +1,20 @@
 # HCI Project Team #3
 
-# Brief
-Our focus is on the lack of confidence, anxiety or fear that some university students feel when they want to have a conversation in English and how this emotions stops them from doing it.
+# Content
+- [Week 1](Weeks/Week1/README.md)
+
+- [Week 2](Weeks/Week1/README.md)
+
+- [Methodology of work](src/methodology.md)
 
 # Team Members
-    - Omar Cauich
-    - Juan Osvaldo
-    - Omar Salas
-    - Erique Ortiz
-    - Aranza Ricalde
-    - Francisco Ruiz
+- Omar Cauich  [@omarzone](https://github.com/omarzone) :smiley:
+- Juan Osvaldo
+- Omar Salas
+- Erique Ortiz
+- Aranza Ricalde
+- Francisco Ruiz
+
 
 # LogBook
 https://view.monday.com/3947222044-0a05e0c2ba9b7875c110a25dd767c4f4?r=use1

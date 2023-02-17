@@ -1,7 +1,7 @@
 # Resultados de la entrevista
 ## Maestra:
 - ¿Ha observado que los estudiantes jóvenes tienen dificultades para confiar en su habilidad para hablar inglés con otras personas?
-Si
+    -   Si
 - ¿Qué estrategias suele utilizar para ayudar a los estudiantes a superar estos problemas de confianza?
 Por cada tema que vemos, siempre trato haya una pequeña discusión en grupos pequeños, con los que se sientan cerca para que se sientan en confianza y en el proyecto final les pido que hagan una presentación
 - ¿Ha notado algún patrón entre los estudiantes que tienen mayores dificultades para confiar en su habla del inglés?

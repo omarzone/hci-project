@@ -1,9 +1,9 @@
 # HCI Project Team #3
 
 # Content
-- [Week 1](Weeks/Week1/README.md)
+- [Week 1](Weeks/Week%201/README.md)
 
-- [Week 2](Weeks/Week1/README.md)
+- [Week 2](Weeks/Week%201/README.md)
 
 - [Methodology of work](src/methodology.md)
 

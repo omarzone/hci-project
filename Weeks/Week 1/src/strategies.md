@@ -1,4 +1,4 @@
-#Estrategias
+# Estrategias
 - Práctica frecuente y oportunidades de hablar en grupo: Alentar a los estudiantes a participar en discusiones en grupos pequeños y en proyectos finales que requieren presentaciones públicas puede ayudar a desarrollar su confianza en el habla del inglés.
 - Fomentar la participación: Alentar a los estudiantes a participar activamente en clase y en discusiones en grupo puede ayudarles a desarrollar su habilidad de hablar inglés y aumentar su confianza.
 - Enfatizar la mejora en lugar del error: En lugar de enfocarse en los errores que los estudiantes cometen al hablar en inglés, enfatice su progreso y su habilidad para mejorar.

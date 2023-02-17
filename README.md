@@ -7,6 +7,8 @@
 
 - [Methodology of work](src/methodology.md)
 
+- [Reflections](reflections/README.md)
+
 # Team Members
 - Omar Cauich  [@omarzone](https://github.com/omarzone) :smiley:
 - Juan Osvaldo

@@ -3,7 +3,7 @@
 # Content
 - [Week 1](Weeks/Week%201/README.md)
 
-- [Week 2](Weeks/Week%201/README.md)
+- [Week 2](Weeks/Week%202/README.md)
 
 - [Methodology of work](src/methodology.md)
 

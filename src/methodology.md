@@ -1,5 +1,5 @@
-Metodología
+Methodology
 
-Nosotros vamos a utilizar herramientas como Monday y Github, para documentar todos nuestros avances y aportes en la investigación del problema.
-Nuestra métrica de contribución es simple, las tareas tienen asignado un número equivalente a la complejidad de la misma. 
-Al final de la semana se automatizará un gráfico en donde se verá la contribución de cada uno de los integrantes.
+We are going to use tools such as Monday and Github to document all of our progress and contributions in researching the problem.
+Our contribution metric is simple; tasks are assigned a number equivalent to their complexity.
+At the end of the week, a chart will be automated to show the contribution of each member.

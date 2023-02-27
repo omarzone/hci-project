@@ -1,25 +1,13 @@
-# Puntos clave y justificación
+Key points and justification
 
-La falta de confianza en el habla del inglés es un problema común entre los estudiantes jóvenes. 
+Lack of confidence in speaking English is a common problem among young students.
+    Justification: Lack of confidence can be a barrier to developing proficiency in a foreign language, making it important to address this issue to help students improve their ability.
 
+The use of small group discussions and final projects that require public presentations are effective strategies to help students overcome lack of confidence.
+    Justification: These strategies allow students to practice and develop their English speaking ability in a safe and comfortable environment, which helps them build confidence as they improve.
 
-- Justificación: La falta de confianza puede ser un obstáculo para el desarrollo de la habilidad de hablar un idioma extranjero, por lo que es importante abordar este problema para ayudar a los estudiantes a mejorar su habilidad.
+Less extroverted students in their native language tend to have more difficulty trusting their English speaking ability.
+    Justification: Introversion can be a factor in lack of confidence in speaking a second language, as introverted students may be less likely to speak publicly and may be afraid of making mistakes.
 
-
-
-__________________________________________________________________________
-El uso de pequeñas discusiones en grupo y proyectos finales que requieren presentaciones públicas son estrategias efectivas para ayudar a los estudiantes a superar la falta de confianza. 
-- Justificación: Estas estrategias permiten a los estudiantes practicar y desarrollar su habilidad de hablar en inglés en un ambiente seguro y cómodo, lo que les ayuda a construir confianza a medida que mejoran.
-
-__________________________________________________________________________
-
-Los estudiantes menos extrovertidos en su idioma natal tienden a tener más dificultades para confiar en su habla del inglés. 
-- Justificación: La introversión puede ser un factor en la falta de confianza en el habla de un segundo idioma, ya que los estudiantes introvertidos pueden ser menos propensos a hablar en público y pueden tener miedo al error.
-
-__________________________________________________________________________
-
-La motivación para practicar el inglés puede ser aumentada a través de la información sobre programas de intercambio universitarios. 
-
-- Justificación: La perspectiva de viajar y experimentar diferentes culturas puede ser un incentivo motivador para los estudiantes, lo que les anima a mejorar su habilidad de hablar inglés para poder aprovechar estas oportunidades.
-
-__________________________________________________________________________
+Motivation to practice English can be increased through information about university exchange programs.
+    Justification: The prospect of traveling and experiencing different cultures can be a motivating incentive for students, encouraging them to improve their English speaking ability in order to take advantage of these opportunities.

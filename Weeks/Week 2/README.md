@@ -5,6 +5,8 @@
 2. [Survey questions](src/Survey-Questions.md)
 3. [Data analysis](src/DataAnalysis.md)
 4. [Survey applied to students](https://miro.com/app/board/uXjVPAbP3cE=/?share_link_id=584782716224)
+5. [People](src/People.md)
+6. [Profiles](src/Profiles.md)
 
 
 

@@ -1,4 +1,11 @@
-# HCI Project Team #3
+<p align="center">
+  <a href="https://github.com/omarzone/hci-project/">
+    <img alt="gradup" title="gradup" src="https://i.imgur.com/vwJ17Fk.png" width="675" >
+  </a>
+</p>
+<h2 align="center">Be Stated!</h2>
+
+<div align="center">
 
 # Content
 - [Week 1](Weeks/Week%201/README.md)

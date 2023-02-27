@@ -1,70 +1,121 @@
-# Preguntas de la encuesta realizada a los estudiantes universitarios
+# Survey questions asked to university students
 
-- ¿Tienes dificultades al hablar inglés con otra personas?
-    - Si
-    - No
-
-__________________________________________________________________________
-## Preguntas en caso de no tener dificultades
-
-- ¿Cómo has logrado desarrollar tu confianza al hablar inglés con otras personas?
-    - He practicado mucho en situaciones de habla en inglés
-    - He recibido retroalimentación y comentarios positivos que han aumentado mi confianza
-    - No me importa cometer errores al hablar en inglés
-    - Otra
-
-- ¿Cómo utilizas la práctica del inglés para seguir mejorando tus habilidades y tu confianza al hablar en inglés?
-    - Asisto a grupos de conversación en inglés
-    - Busco oportunidades para hablar en inglés en mi vida diaria
-    - Leo y escribo en inglés
-    - Escucho y veo contenido en inglés, como programas de televisión o podcasts
-    - Otra
-
-- ¿Cómo crees que los estudiantes universitarios pueden superar su falta de confianza al hablar en inglés?
-    - Practicando regularmente con hablantes nativos de inglés
-    - Recibiendo retroalimentación constructiva de hablantes nativos de inglés
-    - Participando en actividades que involucren hablar en inglés, como grupos de conversación o clubes de inglés
-    - Aprendiendo técnicas de comunicación efectiva y confianza en sí mismo
-    - Otra
+- Do you have difficulties speaking English with other people?
+    - yes.
+    - no.
 
 __________________________________________________________________________
-## Preguntas en caso de tener dificultades
+## Questions to find out if English has an influence on your lack of confidence.
 
-- ¿Con qué frecuencia practicas tu inglés con otra persona?
-    - Nunca
-    - Rara vez
-    - A veces
-    - Con frecuencia
-    - Siempre
+- Do you think that this difficulty in expressing yourself is due to speaking English?
+    - Yes, I find it difficult to express myself when speaking English with other people.
+    - No, I find it difficult to express myself even if I am not speaking English with other people.
 
-- ¿Cómo te sientes cuando hablas inglés con otra persona?
-    - Cómodo/a y seguro/a
-    - Inseguro/a y nervioso/a
-    - Otra
+__________________________________________________________________________
+## Questions in case of lack of confidence regardless of English
 
--  ¿Qué te hace sentir inseguro/a al hablar inglés con otra persona?
-    - Miedo a cometer errores gramaticales
-    - Miesto a no ser entendido/a
-    - Timidez o nerviosismo
-    - Falta de vocabulario
-    - Otra
+- How often do you experience difficulties in expressing yourself with other people?
+    - Always.
+    - Often.
+    - Sometimes.
+    - Rarely.
+    - Never.
 
-- ¿Qué haces para mejorar tus habilidades para hablar en inglés?
-    - Tomo clases de inglés
-    - Practico en casa o solo/a
-    - Practico con amigos o familiares que hablan inglés
-    - Practico con otros edtudiantes universitarios
-    - Utilizo plicaciones o plataformas en línea
-    - Otras
+- How long have you been noticing your communication confidence problems?
+    - Less than 6 months.
+    - Between 6 months and 1 year.
+    - Between 1 and 2 years.
+    - More than 2 years.
+    - Not sure.
 
-- ¿Crees que la práctica del inglés en un ambiente de grupo (como una clase o un grupo de estudio) puede ser más efectiva para mejorar tu confianza en comparación con la práctica individual?
-    - Sí, definitivamente
-    - En cierta medida
-    - No, no creo que haga una gran diferencia
+- How does your lack of confidence in communication affect your college life?
+    - It prevents me from actively participating in classes and discussion groups.
+    - Makes me feel isolated and disconnected from my classmates
+    - It causes me stress and anxiety when interacting with other people.
+    - other.
 
-- ¿Qué factores crees que contribuyen a tu falta de confianza al hablar en inglés con otra persona?
+- Have you sought help or counseling to overcome your communication confidence issues?
+    - Yes, I have sought professional help.
+    - Yes, I have talked to friends or family.
+    - No, but I am interested in doing so.
+    - No, I am not interested in seeking help.
+    - Not sure.
 
-- ¿Crees que la falta de confianza en tu habilidad para hablar inglés ha afectado tu capacidad para participar en discusiones o actividades en clases universitarias?
-    - Sí, definitivamente
-    - En cierta medida
-    - No, no ha afectado mi capacidad de participar en clases
+- What strategies have you used to try to improve your ability to communicate with others?
+    - Practicing public speaking.
+    - Reading books or articles on effective communication.
+    - Taking public speaking or communication courses.
+    - Practicing active listening skills.
+    - other.
+
+- How do you feel about your communication confidence issues right now?
+    - Very frustrated and discouraged.
+    - Concerned but motivated to improve.
+    - I accept my situation and it doesn't affect me much.
+    - I don't mind having communication trust issues.
+    - other.
+
+__________________________________________________________________________
+## Questions to ask if you have no difficulty speaking English
+
+- How have you been able to develop your confidence in speaking English with others?
+    - I have practiced a lot in English speaking situations.
+    - I have received positive feedback and comments that have increased my confidence.
+    - I don't mind making mistakes when speaking English.
+    - Other.
+
+- How do you use English practice to further improve your English speaking skills and confidence?
+    - I attend English conversation groups
+    - I look for opportunities to speak English in my daily life.
+    - I read and write in English.
+    - I listen to and watch content in English, such as television programs or podcasts.
+    - Other.
+
+- How do you think university students can overcome their lack of confidence in speaking English?
+    - Practicing regularly with native English speakers.
+    - Receiving constructive feedback from native English speakers.
+    - Participating in activities that involve speaking in English, such as conversation groups or English clubs.
+    - Learning effective communication techniques and self-confidence.
+    - Other.
+
+__________________________________________________________________________
+## Questions to ask if you have difficulty speaking English
+
+- How often do you practice your English with another person?
+    - Not often.
+    - Rarely.
+    - Sometimes.
+    - Often.
+    - Always.
+
+- How do you feel when you speak English with another person?
+    - Comfortable and confident.
+    - Insecure and nervous.
+    - Other.
+
+- What makes you feel insecure about speaking English with another person?
+    - Fear of making grammatical mistakes.
+    - Fear of not being understood.
+    - Shyness or nervousness.
+    - Lack of vocabulary.
+    - Other.
+
+- What do you do to improve your English speaking skills?
+    - I take English classes.
+    - I practice at home or on my own.
+    - I practice with friends or family who speak English.
+    - Practice with other university students.
+    - I use online applications or platforms.
+    - Other.
+
+- Do you think that practicing English in a group (such as a class or study group) can be more effective in improving your confidence compared to individual practice?
+    - Yes, definitely.
+    - To some extent.
+    - No, I don't think there is a big difference.
+
+- What factors do you think contribute to your lack of confidence when speaking English with another person?
+
+- Do you think the lack of confidence in your ability to speak English has affected your ability to participate in discussions or activities in university classes?
+    - Yes, definitely.
+    - To some extent.
+    - No, it has not affected my ability to participate in classes.

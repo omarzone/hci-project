@@ -3,7 +3,8 @@
 **Index**   
 1. [Brief](#id1)
 2. [Survey questions](src/Survey-Questions.md)
-2. [Data analysis](src/DataAnalysis.md)
+3. [Data analysis](src/DataAnalysis.md)
+4. [Survey applied to students](https://miro.com/app/board/uXjVPAbP3cE=/?share_link_id=584782716224)
 
 
 

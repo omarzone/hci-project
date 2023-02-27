@@ -31,14 +31,14 @@ By addressing this issue, it is hoped that students will be able to improve thei
 
 
 # ✌ Authors
-- Omar Cauich  [@omarzone](https://github.com/omarzone) :smiley:
-- Juan Osvaldo
-- Omar Salas
-- Erique Ortiz
-- Aranza Ricalde
-- Francisco Ruiz
+- Omar Cauich  [@omarzone](https://github.com/omarzone) 🐶
+- Juan Osvaldo 🐒
+- Omar Salas 🐢
+- Erique Ortiz 🤓
+- Aranza Ricalde 🦐
+- Francisco Ruiz 👺
 
 
 # 📚 LogBook
-https://view.monday.com/3947222044-0a05e0c2ba9b7875c110a25dd767c4f4?r=use1
+https://trello.com/invite/b/7nVQp4ka/ATTIb6eb88ec6877a0cca324464b64eb6be66898D17F/hci-project
     

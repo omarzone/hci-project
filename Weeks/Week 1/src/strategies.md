@@ -1,7 +1,8 @@
-# Estrategias
-- Práctica frecuente y oportunidades de hablar en grupo: Alentar a los estudiantes a participar en discusiones en grupos pequeños y en proyectos finales que requieren presentaciones públicas puede ayudar a desarrollar su confianza en el habla del inglés.
-- Fomentar la participación: Alentar a los estudiantes a participar activamente en clase y en discusiones en grupo puede ayudarles a desarrollar su habilidad de hablar inglés y aumentar su confianza.
-- Enfatizar la mejora en lugar del error: En lugar de enfocarse en los errores que los estudiantes cometen al hablar en inglés, enfatice su progreso y su habilidad para mejorar.
-- Proporcionar un ambiente seguro y sin juicio: Al crear un ambiente de aprendizaje seguro y sin juicio, los estudiantes se sienten más cómodos al hablar en inglés y están más dispuestos a participar activamente en clase.
-- Compartir información sobre programas de intercambio: Al hablar con los estudiantes sobre los diversos programas de intercambio universitarios, puedes motivarlos a practicar su inglés y aumentar su confianza al hablar en público.
-- Ofrecer retroalimentación constructiva: Al brindar retroalimentación constructiva y alentadora, los estudiantes se sienten más motivados a mejorar su habilidad de hablar inglés y a aumentar su confianza.
+Strategies
+
+1.- Frequent practice and group speaking opportunities: Encouraging students to participate in small group discussions and final projects that require public presentations can help develop their confidence in speaking English.
+2.- Foster participation: Encouraging students to actively participate in class and group discussions can help them develop their English speaking ability and increase their confidence.
+3.- Emphasize improvement over error: Instead of focusing on the mistakes students make when speaking English, emphasize their progress and their ability to improve.
+4.- Provide a safe and non-judgmental environment: By creating a safe and non-judgmental learning environment, students feel more comfortable speaking English and are more willing to actively participate in class.
+5.- Share information about exchange programs: By discussing various university exchange programs with students, you can motivate them to practice their English and increase their confidence in speaking publicly.
+6.- Offer constructive feedback: By providing constructive and encouraging feedback, students are more motivated to improve their English speaking ability and increase their confidence.

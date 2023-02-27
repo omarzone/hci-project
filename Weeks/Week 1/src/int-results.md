@@ -1,22 +1,21 @@
-# Resultados de la entrevista
-## Maestra:
-- ¿Ha observado que los estudiantes jóvenes tienen dificultades para confiar en su habilidad para hablar inglés con otras personas?
-    - Si
-- ¿Qué estrategias suele utilizar para ayudar a los estudiantes a superar estos problemas de confianza?
-    - Por cada tema que vemos, siempre trato haya una pequeña discusión en grupos pequeños, con los que se sientan cerca para que se sientan en confianza y en el proyecto final les pido que hagan una presentación
-- ¿Ha notado algún patrón entre los estudiantes que tienen mayores dificultades para confiar en su habla del inglés?
-    - Si, los alumnos menos extrovertidos en su idioma natal son a los que tienen mayores dificultades en confiar al hablar inglés
-- ¿Cuál considera usted una forma para poder motivar a alumnos universitarios a practicar su inglés?
-    - Hablarles de los diversos programas de intercambio que tienen las universidades para que ellos se motiven a tener el inglés y poder conocer y vivir otras experiencias.
+Interview Results
 
-## Psicóloga
-- ¿Ha observado que los estudiantes jóvenes tienen dificultades para confiar en su habilidad para hablar inglés con otras personas? 
-    - Sí, es común que los estudiantes jóvenes tengan dificultades para confiar en su habilidad para hablar inglés con otras personas. Esto puede ser debido a una variedad de factores, como el miedo a cometer errores, la falta de práctica o la falta de confianza en su habilidad para comunicarse efectivamente.
-- ¿Qué estrategias suele utilizar para ayudar a los estudiantes a superar estos problemas de confianza?
-    - Para ayudar a los estudiantes a superar estos problemas de confianza, utilizo una variedad de estrategias, incluyendo la práctica en parejas y grupos pequeños, la retroalimentación constructiva y el fomento de un ambiente de apoyo y confianza en el aula. También animo a los estudiantes a enfrentar sus miedos y a ser conscientes de sus fortalezas lingüísticas.
-- ¿Ha notado algún patrón entre los estudiantes que tienen mayores dificultades para confiar en su habla del inglés?
-    - No he notado un patrón específico entre los estudiantes que tienen mayores dificultades para confiar en su habla del inglés, pero algunos factores que pueden influir incluyen el nivel de habilidad en inglés, la personalidad y la experiencia previa de aprendizaje de idiomas.
-- ¿Cuál considera usted una forma para poder motivar a alumnos universitarios a practicar su inglés?
-    - Considero que una forma efectiva de motivar a los estudiantes universitarios a practicar su inglés es proporcionar oportunidades para aplicar lo que han aprendido en situaciones reales y relevantes para ellos. Por ejemplo, puedo organizar actividades en las que los estudiantes puedan practicar su inglés mientras discuten temas de interés, trabajan en proyectos en equipo o se comunican con nativos de habla inglesa.
+Teacher:
+    Have you noticed that young students have difficulty trusting their ability to speak English with other people?
+        Yes
+    What strategies do you usually use to help students overcome these confidence problems?
+        For every topic we cover, I always try to have a small discussion in small groups with those who feel close so that they feel confident, and in the final project, I ask them to make a presentation.
+    Have you noticed any patterns among students who have more difficulty trusting their English speaking abilities?
+        Yes, the less outgoing students in their native language are the ones who have the most difficulty trusting their English speaking abilities.
+    What do you consider a way to motivate university students to practice their English?
+        Talk to them about the various exchange programs that universities have so that they are motivated to have English and be able to learn about and experience other cultures.
 
-
+Psychologist:
+    Have you noticed that young students have difficulty trusting their ability to speak English with other people?
+        Yes, it is common for young students to have difficulty trusting their ability to speak English with other people. This can be due to a variety of factors, such as the fear of making mistakes, lack of practice, or lack of confidence in their ability to communicate effectively.
+    What strategies do you usually use to help students overcome these confidence problems?
+        To help students overcome these confidence problems, I use a variety of strategies, including practice in pairs and small groups, constructive feedback, and encouraging a supportive and trusting environment in the classroom. I also encourage students to face their fears and be aware of their language strengths.
+    Have you noticed any patterns among students who have more difficulty trusting their English speaking abilities?
+        I have not noticed a specific pattern among students who have more difficulty trusting their English speaking abilities, but some factors that may influence include English proficiency level, personality, and previous language learning experience.
+    What do you consider a way to motivate university students to practice their English?
+        I believe an effective way to motivate university students to practice their English is to provide opportunities to apply what they have learned in real and relevant situations for them. For example, I can organize activities where students can practice their English while discussing topics of interest, working on team projects, or communicating with English-speaking natives.

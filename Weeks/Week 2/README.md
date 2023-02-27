@@ -1,4 +1,4 @@
-# Primera semana proyecto HCI
+# Second week HCI project
 
 **Index**   
 1. [Brief](#id1)

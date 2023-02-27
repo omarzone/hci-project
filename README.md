@@ -36,7 +36,7 @@ By addressing this issue, it is hoped that students will be able to improve thei
 - Omar Cauich  [@omarzone](https://github.com/omarzone) 🐶
 - Juan Osvaldo 🐒
 - Omar Salas 🐢
-- Erique Ortiz 🤓
+- Andres Ortiz 🤓
 - Aranza Ricalde 🦐
 - Francisco Ruiz 👺
 

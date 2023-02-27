@@ -1,6 +1,5 @@
 
-|----------------------|----------------------------------------------------------------------|
-|                                         College Student                                     |
+|      Attributes      |                                    Data                              |
 |----------------------|----------------------------------------------------------------------|
 | Age                  |                                Not relevant                          |
 | Gender               |                                Not relevant                          |
@@ -11,6 +10,5 @@
 | Family               |                                Not Relevant                          |
 | Goals                |  Gain the necessary confidence to speak the foreign language English |
 | English Knowledge    |                                Basic-Advanced                        |
-|----------------------|----------------------------------------------------------------------|
 
 

@@ -13,6 +13,8 @@
 
 - [Week 2](Weeks/Week%202/README.md)
 
+- [Week 3](Weeks/Week%203/README.md)
+
 - [Methodology of work](src/methodology.md)
 
 - [Reflections](src/reflections/README.md)

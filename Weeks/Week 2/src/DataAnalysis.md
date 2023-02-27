@@ -1,17 +1,17 @@
-# Análisis de los datos recabados en la encuesta dirigida a los estudiantes universitarios
+# Analysis of the data collected in the survey addressed to university students.
 
-## ¿Que recolectamos?
+## What do we collect?
 
-Muchos estudiantes universitarios tienen dificultades al hablar inglés con otras personas. Esta dificultad suele ser una consecuencia de una falta de confianza general, aunque los datos obtenidos indican que el 70.6% de los estudiantes tienen problemas expresándose en inglés con otros.
-Los estudiantes que presentan esta dificultad rara vez ponen en práctica sus conocimientos del idioma inglés, debido a que la mayoría se sienten inseguros y nerviosos. Frecuentemente, esto se debe al miedo de no ser comprendidos, temor a cometer errores gramaticales y falta de vocabulario.
-A pesar de que muchos de estos estudiantes intentan mejorar sus habilidades, continúan teniendo problemas para expresarse en inglés. Por otro lado, más del 50% asegura que practicar en un ambiente grupal es una forma efectiva para reforzar su confianza, en comparación con las prácticas individuales.
-Para concluir, los estudiantes que presentan este problema se ven limitados al participar en discusiones o actividades en clases universitarias. La falta de confianza les impide expresar correctamente sus ideas, lo que les lleva a mantenerse al margen de la actividad.
+Many university students have difficulty speaking English with others. This difficulty is often a consequence of a general lack of confidence, although data indicate that 70.6% of students have problems expressing themselves in English with others.
+Students who have this difficulty rarely put their English language skills into practice, because most of them feel insecure and nervous. This is often due to fear of not being understood, fear of making grammatical errors, and lack of vocabulary.
+Although many of these students try to improve their skills, they continue to have problems expressing themselves in English. On the other hand, more than 50% say that practicing in a group setting is an effective way to reinforce their confidence, compared to individual practice.
+To conclude, students who present this problem are limited when participating in discussions or activities in university classes. Lack of confidence prevents them from expressing their ideas correctly, which leads them to stay away from the activity.
 
-## ¿Por qué recolectamos dicha información?
+## Why do we collect such information?
 
-La recopilación de esta información es fundamental para desarrollar estrategias concretas que ayuden a los estudiantes a superar esta dificultad. Es importante conocer las causas subyacentes del problema y las barreras que impiden que los estudiantes mejoren sus habilidades en el idioma inglés. Solo así se pueden implementar enfoques efectivos y soluciones específicas para ayudar a los estudiantes a superar esta dificultad.
-la información recabada sobre la dificultad que tienen muchos estudiantes universitarios para hablar inglés es esencial para desarrollar estrategias concretas y enfoques efectivos para abordar esta problemática. Solo a través de un enfoque específico se pueden ayudar a los estudiantes a superar las barreras que impiden su desarrollo y lograr así un mejor rendimiento en el idioma inglés.
+Gathering this information is critical to developing concrete strategies to help students overcome this difficulty. It is important to know the underlying causes of the problem and the barriers that prevent students from improving their English language skills. Only then can effective approaches and specific solutions be implemented to help students overcome this difficulty.
+Information gathered about the difficulty many college students have in speaking English is essential to developing concrete strategies and effective approaches to address this issue. Only through a targeted approach can students be helped to overcome the barriers that impede their development and achieve better performance in the English language.
 
-## ¿Cómo obtuvimos la información?
+## How did we obtain the information?
 
-La recolecta de información fue elaborada por medio de encuestas dirigidas a los estudintes universitarios que saben inglés, de igual forma, elaboramos encuestas para personas más familiarizadas con la problemática, de igual forma, investigamos en artículos acerca de los problemas de confianza que presentan los estudiantes con el inglés.
+The data collection was elaborated by means of surveys directed to university students who know English, as well as surveys for people more familiar with the problem, and we also researched in articles about the confidence problems that students have with English.

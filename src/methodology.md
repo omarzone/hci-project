@@ -1,4 +1,4 @@
-Methodology
+# Methodology
 
 We are going to use tools such as Monday and Github to document all of our progress and contributions in researching the problem.
 Our contribution metric is simple; tasks are assigned a number equivalent to their complexity.

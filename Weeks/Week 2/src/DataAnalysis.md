@@ -14,4 +14,4 @@ Information gathered about the difficulty many college students have in speaking
 
 ## How did we obtain the information?
 
-The data collection was elaborated by means of surveys directed to university students who know English, as well as surveys for people more familiar with the problem, and we also researched in articles about the confidence problems that students have with English.
+The data collection was elaborated by means of surveys directed to university students who know English, as well as surveys for people more familiar with the problem, and we also researched in articles about the confidence problems that students have with English. 

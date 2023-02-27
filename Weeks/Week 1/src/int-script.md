@@ -1,9 +1,9 @@
+Script
 
-# Guión
-¿Ha observado que los estudiantes jóvenes tienen dificultades para confiar en su habilidad para hablar inglés con otras personas?
+-> Have you noticed that young students often struggle with trusting their ability to speak English with others?
 
-¿Qué estrategias suele utilizar para ayudar a los estudiantes a superar estos problemas de confianza?
+-> What strategies do you typically use to help students overcome these confidence issues?
 
-¿Ha notado algún patrón entre los estudiantes que tienen mayores dificultades para confiar en su habla del inglés?
+-> Have you noticed any patterns among students who have more difficulty trusting their English speaking ability?
 
-¿Cuál considera usted una forma para poder motivar a alumnos universitarios a practicar su inglés?
+-> What do you consider to be a way to motivate university students to practice their English?

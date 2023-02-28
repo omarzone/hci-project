@@ -7,6 +7,8 @@
 
 ---
 
+# First delivery
+[VIDEO](https://github.com/omarzone/hci-project)
 
 # 📝Content
 - [Week 1](Weeks/Week%201/README.md)

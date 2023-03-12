@@ -6,5 +6,5 @@
 - [Juan Osvaldo](#)
 - [Omar Salas](#)
 - [Erique Ortiz](#)
-- [Aranza Ricalde](src/reflections/Aranza Ricalde)
+- [Aranza Ricalde](#)
 - [Francisco Ruiz](#)

@@ -6,5 +6,5 @@
 - [Juan Osvaldo](#)
 - [Omar Salas](#)
 - [Erique Ortiz](#)
-- [Aranza Ricalde](reflections/HCI&UX.md)
+- [Aranza Ricalde](src/reflections/HCI&UX.md)
 - [Francisco Ruiz](#)

@@ -7,4 +7,4 @@
 - [Omar Salas](#)
 - [Erique Ortiz](#)
 - [Aranza Ricalde](Aranza%20Ricalde)
-- [Francisco Ruiz](#)
+- [Francisco Ruiz](Francisco%20Ruiz)

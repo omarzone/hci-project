@@ -2,7 +2,7 @@
 
 
 ## Team Members
-- [Omar Cauich](#)
+- [Omar Cauich](Omar%20Cauich)
 - [Juan Osvaldo](#)
 - [Omar Salas](#)
 - [Erique Ortiz](#)

@@ -2,8 +2,8 @@
 
 **Index**   
 1. [Brief](#id1)
-2. [Requirements Draft](#)
-3. [Usability Requirements](#)
+2. [Requirements Draft](src/DraftRequirements.md)
+3. [Usability Requirements](src/UsabilityRequirements.md)
 4. [Requirements V1](src/Requirements.md)
 
 

@@ -1,25 +1,23 @@
-Al principio solo se tenían pensadas métricas para evaluar el funcionamiento de la aplicación, sin embargo, tras analizarlo detenidamente, nos dimos cuenta que la participación del usuario es igualmente importante, por lo cual, decidimos implementar métricas que se relacionen con ambos, algunas de las métricas que elegimos son las siguientes:
+At first, metrics were only considered to evaluate the application's performance; however, after analyzing it carefully, we realized that user engagement is equally important. Therefore, we decided to implement metrics that relate to both. Some of the metrics we chose are:
 
-Precisión de la transcripción: Esta métrica se refiere a la exactitud con la que la IA puede transcribir las palabras habladas por el usuario en texto, una alta precisión es esencial para asegurarse de que la conversación sea fluida y no haya malentendidos debido a errores de transcripción.
+Transcription accuracy: This metric refers to the accuracy with which the AI can transcribe the user's spoken words into text. High accuracy is essential to ensure a smooth conversation and to avoid misunderstandings due to transcription errors.
 
-Tiempo de respuesta: El tiempo que tarda la IA en responder a las preguntas del usuario puede afectar la experiencia del usuario y su motivación para seguir utilizando la aplicación, un tiempo de respuesta rápido es crucial para una experiencia de usuario satisfactoria.
+Response time: The time it takes for the AI to respond to the user's questions can affect the user experience and motivation to continue using the application. A fast response time is crucial for a satisfactory user experience.
 
-Tasa de éxito en la superación de la ansiedad: El objetivo principal de la aplicación es ayudar al usuario a superar su ansiedad al hablar inglés, por lo tanto, una métrica importante sería medir la tasa de éxito del usuario en la superación de su ansiedad después de usar la aplicación durante un período de tiempo determinado.
+Success rate in overcoming anxiety: The main goal of the application is to help the user overcome their anxiety when speaking English. Therefore, an important metric would be to measure the user's success rate in overcoming their anxiety after using the application for a certain period of time.
 
-Número de errores de gramática y pronunciación corregidos: La aplicación también podría ser evaluada en función de su capacidad para detectar y corregir errores de gramática y pronunciación del usuario, una mayor cantidad de errores corregidos indica una mayor utilidad de la aplicación.
+Number of grammar and pronunciation errors corrected: The application could also be evaluated based on its ability to detect and correct the user's grammar and pronunciation errors. A higher number of errors corrected indicates greater usefulness of the application.
 
-Tiempo total de conversación: Otra métrica que puede ser útil para evaluar la aplicación es el tiempo total que el usuario ha pasado hablando con la IA, un mayor tiempo total de conversación indica una mayor participación del usuario y una mayor utilidad de la aplicación.
+Total conversation time: Another useful metric for evaluating the application is the total time the user has spent talking to the AI. A longer total conversation time indicates greater user engagement and usefulness of the application.
 
+To achieve these metrics, we thought of several ways to measure them, including:
 
-Para poder alcanzar estas métricas, pensamos en diversas maneras de poder medirlas, entre las cuales se encuentran:
+Transcription accuracy: Transcription accuracy could be measured by comparing the text transcribed by the AI with the original text spoken by the user. One way to do this would be using the accuracy formula, which involves dividing the number of correctly transcribed words by the total number of words spoken and multiplying by 100 to obtain a percentage.
 
-Precisión de la transcripción: La precisión de la transcripción podría medirse comparando el texto que se transcribió por la IA con el texto original hablado por el usuario, una forma de hacerlo sería mediante la fórmula de precisión, que consiste en dividir el número de palabras correctamente transcritas por el número total de palabras habladas y multiplicarlo por 100 para obtener un porcentaje.
+Response time: Response time could be measured by recording the moment the user finishes speaking and the moment the AI begins to respond. The time elapsed between these events could then be calculated.
 
-Tiempo de respuesta: El tiempo de respuesta podría medirse registrando el momento en que el usuario termina de hablar y el momento en que la IA comienza a responder, luego, se podría calcular el tiempo transcurrido entre ambos eventos.
+Success rate in overcoming anxiety: The success rate could be measured through a survey conducted with users after a period of using the application. The survey could ask about the user's improvement in confidence when speaking English and the reduction in their anxiety. Subsequently, the success rate could be calculated using the survey results.
 
-Tasa de éxito en la superación de la ansiedad: La tasa de éxito podría medirse mediante una encuesta realizada a los usuarios después de un período de uso de la aplicación, la encuesta podría preguntar sobre la mejora en la confianza del usuario al hablar inglés y sobre la reducción de su ansiedad, posteriormente, con los resultados de la encuesta podría calcularse  la tasa de éxito.
+Number of grammar and pronunciation errors corrected: The number of errors corrected could be measured by counting the total number of grammar and pronunciation errors detected by the AI and the number of errors the AI corrected correctly.
 
-Número de errores de gramática y pronunciación corregidos: El número de errores corregidos podría medirse contando el número total de errores de gramática y pronunciación detectados por la IA y el número de errores que la IA corrigió correctamente.
-
-Tiempo total de conversación: El tiempo total de conversación podría medirse simplemente sumando el tiempo que el usuario ha pasado hablando con la IA durante un período de tiempo determinado, como una semana o un mes.
-
+Total conversation time: Total conversation time could be measured by simply adding up the time the user has spent talking to the AI during a certain period of time, such as a week or a month.

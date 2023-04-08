@@ -10,6 +10,9 @@
 # First delivery
 [VIDEO](https://www.youtube.com/watch?v=s7by5LPdr_s)
 
+# Second delivery
+[VIDEO](https://youtu.be/fm7ZHU348XA)
+
 # 📝Content
 - [Week 1](Weeks/Week%201/README.md)
 

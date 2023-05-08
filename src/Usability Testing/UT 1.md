@@ -1,41 +1,42 @@
-# Requisito 1
-Para realizar esta prueba de usabilidad, se requiere acceso a un dispositivo Amazon Echo con la skill de Alexa "ChatGPT" instalada y conectada a Internet.
+# Requirement 1
+To conduct this usability test, access to an Amazon Echo device with the Alexa skill "ChatGPT" installed and connected to the internet is required.
 
-# Objetivo de la prueba
-El objetivo de esta prueba de usabilidad es evaluar la capacidad de la skill de Alexa para proporcionar retroalimentación útil y efectiva para ayudar al usuario a mejorar su capacidad para hablar en inglés.
+# Objective of the test
+The objective of this usability test is to evaluate the ability of the Alexa skill to provide useful and effective feedback to help the user improve their ability to speak English.
 
-# Perfil de participantes
-Los participantes ideales para esta prueba son personas que hablen español como lengua materna y que tengan algún conocimiento básico de inglés.
+# Participant profile
+The ideal participants for this test are people who speak Spanish as their native language and have some basic knowledge of English.
 
-# Descripción del escenario
-El participante se encuentra en casa y desea mejorar su habilidad para hablar en inglés. Decide utilizar la skill de Alexa "ChatGPT" para practicar conversando en inglés de manera informal. Después de abrir la skill de Alexa y activarla con el comando de voz "Alexa, abre ChatGPT", le pide a Alexa que inicie una conversación en inglés utilizando el comando de voz "Alexa, inicia una conversación en inglés". La conversación dura alrededor de 10 minutos.
+# Scenario description
+The participant is at home and wants to improve their ability to speak English. They decide to use the Alexa skill "ChatGPT" to practice conversing in English informally. After opening the Alexa skill and activating it with the voice command "Alexa, open ChatGPT," they ask Alexa to start a conversation in English using the voice command "Alexa, start an English conversation." The conversation lasts about 10 minutes.
 
-# Tiempos aproximados para cada una de las secciones de la prueba
-Introducción y explicación de la prueba: 5 minutos
+# Aproximate times for each section of the test
+Introduction and explanation of the test: 5 minutes
 
-Prueba de la skill de Alexa "ChatGPT": 10 minutos
+Testing the Alexa skill "ChatGPT": 10 minutes
 
-Encuesta de satisfacción: 5 minutos
+Satisfaction survey: 5 minutes
 
-# Instrumentos para recabar información antes y después de realizar la tarea
-Antes de la prueba, se realizará una breve entrevista para recopilar información sobre el conocimiento previo del participante en el idioma inglés, la frecuencia de uso de dispositivos Amazon Echo y la familiaridad con el uso de skills de Alexa. Después de la prueba, se aplicará una encuesta de satisfacción para evaluar la percepción del participante sobre la experiencia de uso de la skill de Alexa "ChatGPT".
+# Instruments for Gathering Information Before and After Performing the Task
+Before the test, a brief interview will be conducted to collect information about the participant's prior knowledge of the English language, the frequency of using Amazon Echo devices, and familiarity with using Alexa skills. After the test, a satisfaction survey will be administered to evaluate the participant's perception of the experience of using the Alexa skill "ChatGPT."
 
-# Lista de cotejo de los elementos a verificarse antes de iniciar la prueba
-Comprobar que el dispositivo Amazon Echo está correctamente conectado a Internet y que la skill de Alexa "ChatGPT" está instalada.
+# Checklist of Elements to be Verified Before Starting the Test
+Verify that the Amazon Echo device is correctly connected to the internet and that the Alexa skill "ChatGPT" is installed.
 
-Verificar que el participante habla español como lengua materna y que tiene algún conocimiento básico de inglés.
+Verify that the participant speaks Spanish as their native language and has some basic knowledge of English.
 
-Asegurarse de que el participante entiende las instrucciones y el propósito de la prueba.
+Ensure that the participant understands the instructions and purpose of the test.
 
-# Instrumento de observación de las mediciones que se realizarán durante la ejecución de la prueba
-#### Durante la ejecución de la prueba, se realizarán las siguientes mediciones:
+# Observation Instrument for the Measurements to be Made During the Test Execution
+#### During the test execution, the following measurements will be taken:
 
-Tiempo que tarda el participante en abrir la skill de Alexa "ChatGPT" y activarla.
+During the test execution, the following measurements will be taken:
+Time it takes for the participant to open the Alexa skill "ChatGPT" and activate it.
 
-Tiempo que tarda la skill de Alexa "ChatGPT" en iniciar la conversación en inglés después de que se le solicita.
+Time it takes for the Alexa skill "ChatGPT" to start the English conversation after being requested.
 
-Tiempo total de la conversación en inglés.
+Total time of the English conversation.
 
-Número de errores de gramática, pronunciación y vocabulario que la skill de Alexa "ChatGPT" señala durante la conversación.
+Number of grammar, pronunciation, and vocabulary errors that the Alexa skill "ChatGPT" points out during the conversation.
 
-Nivel de satisfacción del participante con la experiencia de uso de la skill de Alexa "ChatGPT".
+Participant's level of satisfaction with the experience of using the Alexa skill "ChatGPT".

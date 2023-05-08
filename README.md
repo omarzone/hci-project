@@ -24,6 +24,8 @@
 
 - [Week 5](Weeks/Week%205/README.md)
 
+- [Usability Testing](src/Usability%20Testing)
+
 - [Methodology of work](src/methodology.md)
 
 - [Reflections](src/reflections/README.md)

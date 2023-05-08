@@ -26,6 +26,8 @@
 
 - [Usability Testing](src/Usability%20Testing)
 
+- [Skill Source Code](src/skill)
+
 - [Methodology of work](src/methodology.md)
 
 - [Reflections](src/reflections/README.md)

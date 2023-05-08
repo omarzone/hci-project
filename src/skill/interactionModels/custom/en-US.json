@@ -1,0 +1,121 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "be stated",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "HelloWorldIntent",
+          "slots": [],
+          "samples": [
+            "hello",
+            "how are you",
+            "say hi world",
+            "say hi",
+            "hi",
+            "say hello world",
+            "say hello"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "responseOne",
+          "slots": [],
+          "samples": [
+            "Usually I talk to my friends on discord"
+          ]
+        },
+        {
+          "name": "responseTwo",
+          "slots": [],
+          "samples": [
+            "We usually talk about videogames because we play a lot of games"
+          ]
+        },
+        {
+          "name": "responseThree",
+          "slots": [],
+          "samples": [
+            "No I never tried that But actually sounds good"
+          ]
+        },
+        {
+          "name": "responseFour",
+          "slots": [],
+          "samples": [
+            "No I\u0027m too shy for that"
+          ]
+        },
+        {
+          "name": "responseFive",
+          "slots": [],
+          "samples": [
+            "Maybe"
+          ]
+        },
+        {
+          "name": "responseSix",
+          "slots": [],
+          "samples": [
+            "Yes I want to talk about other topic"
+          ]
+        },
+        {
+          "name": "responseSeven",
+          "slots": [],
+          "samples": [
+            "What dou you think about overwatch"
+          ]
+        },
+        {
+          "name": "responseEight",
+          "slots": [],
+          "samples": [
+            "Yes I play overwatch every day with my friends"
+          ]
+        },
+        {
+          "name": "responseNine",
+          "slots": [],
+          "samples": [
+            "Yes sometimes I have to end this session Bye"
+          ]
+        },
+        {
+          "name": "ResponseRetro",
+          "slots": [],
+          "samples": [
+            "Give me feedback on my last conversation"
+          ]
+        },
+        {
+          "name": "responseTen",
+          "slots": [],
+          "samples": [
+            "no thanks"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "7"
+}

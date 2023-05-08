@@ -1,41 +1,41 @@
-# Requisito 1: 
-La skill de Alexa debe permitir la comunicación por voz del usuario con la API de ChatGPT para generar una conversación aleatoria con el propósito de ayudar a un estudiante universitario a vencer su miedo a hablar en inglés.
+# Requirement 1:
+The Alexa skill must allow the user to communicate through voice with the ChatGPT API to generate a random conversation with the purpose of helping a university student overcome their fear of speaking in English.
 
-# Objetivo de la prueba: 
-Evaluar la facilidad de uso y efectividad de la skill de Alexa para ayudar a un estudiante universitario a practicar el inglés hablado y vencer su miedo a hablar en inglés.
+# Test Objective:
+To evaluate the ease of use and effectiveness of the Alexa skill in helping a university student practice spoken English and overcome their fear of speaking in English.
 
-# Perfil de participantes: 
-Estudiantes universitarios que estén estudiando inglés como segundo idioma y tengan algún nivel de conocimiento del idioma.
+# Participant Profile:
+University students who are studying English as a second language and have some level of language proficiency.
 
-# Descripción del escenario: 
-El participante se encuentra en una habitación tranquila y sin distracciones y se le proporciona un dispositivo Echo Dot de Amazon con la skill de Alexa instalada. Se le explica que debe utilizar la skill para iniciar una conversación en inglés con el ChatGPT y que debe intentar hablar en inglés tanto como sea posible. Se le proporciona un tema de conversación y se le pide que intente mantener la conversación durante unos minutos. El participante puede hacer uso de cualquier apoyo que necesite, como un diccionario en línea o un traductor de Google.
+# Scenario Description:
+The participant is in a quiet and distraction-free room and is provided with an Amazon Echo Dot device with the Alexa skill installed. They are instructed to use the skill to initiate a conversation in English with ChatGPT and to try to speak in English as much as possible. A conversation topic is provided, and the participant is asked to try to maintain the conversation for a few minutes. The participant can use any support they need, such as an online dictionary or Google Translate.
 
-# Tiempos aproximados para cada una de las secciones de la prueba:
-Introducción y explicación: 5 minutos
+# Approximate Time for each Section of the Test:
+Introduction and Explanation: 5 minutes
 
-Realización de la tarea: 10 minutos
+Task Performance: 10 minutes
 
-Encuesta de satisfacción y recopilación de comentarios: 5 minutos
+Satisfaction Survey and Comment Collection: 5 minutes
 
-# Instrumentos para recabar información antes y después de realizar la tarea:
-Encuesta pre-prueba: para recopilar información sobre la experiencia y habilidades del participante con el idioma inglés y la tecnología.
+# Instruments for Gathering Information Before and After Task Performance:
+Pre-Test Survey: To gather information about the participant's experience and skills with the English language and technology.
 
-Encuesta post-prueba: para evaluar la satisfacción del participante con la skill de Alexa y el ChatGPT, y para recopilar cualquier comentario adicional.
+Post-Test Survey: To evaluate the participant's satisfaction with the Alexa skill and ChatGPT and to gather any additional feedback.
 
-# Lista de cotejo de los elementos a verificarse antes de iniciar la prueba:
-El dispositivo Echo Dot está funcionando correctamente.
+# Checklist of Elements to be Verified Before Starting the Test:
+The Echo Dot device is functioning properly.
 
-La skill de Alexa está instalada y actualizada.
+The Alexa skill is installed and updated.
 
-La conexión a internet es estable.
+The internet connection is stable.
 
-El participante comprende las instrucciones y los objetivos de la prueba.
+The participant understands the instructions and test objectives.
 
-# Instrumento de observación de las mediciones que se realizarán durante la ejecución de la prueba:
-Se medirá el tiempo que tarda el participante en iniciar una conversación con la skill de Alexa y el ChatGPT.
+# Observation Instrument for Measuring During Test Performance:
+The time it takes the participant to initiate a conversation with the Alexa skill and ChatGPT will be measured.
 
-Se evaluará la capacidad del participante para mantener una conversación en inglés con el ChatGPT durante al menos 2 minutos.
+The participant's ability to maintain a conversation in English with ChatGPT for at least 2 minutes will be evaluated.
 
-Se medirá la cantidad de apoyo que el participante requiere durante la conversación.
+The amount of support the participant requires during the conversation will be measured.
 
-Se observará la calidad de la conversación en términos de fluidez y comprensión.
+The quality of the conversation in terms of fluency and comprehension will be observed.

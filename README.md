@@ -13,6 +13,9 @@
 # Second delivery
 [VIDEO](https://youtu.be/fm7ZHU348XA)
 
+# Third delivery
+[VIDEO](https://www.youtube.com/watch?v=MwIpGgGRN4o)
+
 # 📝Content
 - [Week 1](Weeks/Week%201/README.md)
 
@@ -31,6 +34,13 @@
 - [Methodology of work](src/methodology.md)
 
 - [Reflections](src/reflections/README.md)
+
+# 😴 Final evidence
+- [Learned Lessons](src/leanerdLessons.md)
+- [Product Summary Based on UCD](src/Product%20Summary%20Based%20on%20UCD.pdf)
+- [Summary of progress made](src/Summary%20of%20progress%20made.md)
+- [Stages with implementation details](src/stages%20details.md)
+
 
 # 🤓 Problem Statement
 The issue to be addressed focuses on the lack of confidence that many students experience when speaking in English. This lack of confidence can be due to a variety of factors, such as fear of making mistakes, embarrassment about mispronouncing words, or lack of practice in oral communication in English. This problem can have a negative impact on students' language skill development, affecting their ability to communicate effectively in the language.

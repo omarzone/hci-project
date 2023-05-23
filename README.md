@@ -36,7 +36,7 @@
 - [Reflections](src/reflections/README.md)
 
 # 😴 Final evidence
-- [Learned Lessons](src/leanerdLessons.md)
+- [Learned Lessons](src/learnedLessons.md)
 - [Product Summary Based on UCD](src/Product%20Summary%20Based%20on%20UCD.pdf)
 - [Summary of progress made](src/Summary%20of%20progress%20made.md)
 - [Stages with implementation details](src/stages%20details.md)

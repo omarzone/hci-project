@@ -13,7 +13,7 @@ The participant is at home and wants to improve their ability to speak English. 
 # Aproximate times for each section of the test
 Introduction and explanation of the test: 5 minutes
 
-Testing the Alexa skill "ChatGPT": 10 minutes
+Testing the Alexa skill "ChatGPT": 2 minutes
 
 Satisfaction survey: 5 minutes
 

@@ -1,5 +1,7 @@
 # Methodology
 
-We are going to use tools such as Trello and Github to document all of our progress and contributions in researching the problem.
-Our contribution metric is simple; tasks are assigned a number equivalent to their complexity.
-At the end of the week, a chart will be automated to show the contribution of each member.
+To ensure that every team member's progress is documented accurately, we will utilize tools such as Trello and GitHub. These platforms will allow us to track our work in real time, assigning and completing tasks while maintaining transparency across the team. Trello will serve as our task management tool, breaking down the problem into smaller, manageable tasks that can be assigned to specific team members. GitHub will provide a platform for collaboration on code, version control, and documentation, making it easier to track contributions.
+
+Our contribution metric is designed to be straightforward yet effective. Each task is assigned a numerical value based on its complexity, allowing for an objective measurement of effort. The higher the complexity, the greater the value assigned to that task. This ensures that contributions are evaluated not just by the number of tasks completed but also by the difficulty and time investment required. By assigning these values, we ensure that contributions are balanced and fairly represented across the team.
+
+At the end of each week, we will automate the creation of a chart that will visually represent each team member’s contributions. This chart will serve as a snapshot of the team's collective efforts, showing the breakdown of completed tasks and their respective complexities. It will also help us identify any bottlenecks or areas where additional support may be needed, promoting accountability and ensuring consistent progress towards our goals.

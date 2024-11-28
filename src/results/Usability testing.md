@@ -1,4 +1,3 @@
-
 # Test 1
 ## Requirement 1
 To conduct this usability test, access to an Amazon Echo device with the Alexa skill installed and connected to the internet is required.

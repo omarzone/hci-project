@@ -119,3 +119,10 @@ __________________________________________________________________________
     - Yes, definitely.
     - To some extent.
     - No, it has not affected my ability to participate in classes.
+
+- Do you lose interest when having a conversation in English that is slow or with a tone of voice that is not sufficient for you to understand the words?
+    - Always.
+    - Often.
+    - Sometimes.
+    - Rarely.
+    - Never.

@@ -27,6 +27,11 @@
 | ⏬ Priority:| Medium |
 | 📝 Description | The bot should be able to adapt to the user's pace and learning style, providing personalized content and adjusting its feedback to address areas where the user needs more help. |
 
+| RF005   | Voice Customization |  
+|----------|:-------------:|
+| ⏬ Priority:| Medium |
+| 📝 Description | The bot should allow users to customize the voice settings, such as choosing between different voices, adjusting the speaking rate, and modifying the volume. |
+
 ### Non-functional:
 
 | RNF001   | User interface |  
@@ -48,3 +53,8 @@
 |----------|:-------------:|
 | ⏬ Priority:| Medium |
 | 📝 Description | The bot should be adaptable to different devices and platforms, allowing the user to access it on different devices and operating systems. |
+
+| RNF005   | Performance |  
+|----------|:-------------:|
+| ⏬ Priority:| Medium |
+| 📝 Description | The bot should have a fast response time, ensuring that users do not experience significant delays during interactions. |

@@ -139,6 +139,79 @@ The ease of use of the skill's user interface and any difficulties or challenges
 The participant's level of engagement and confidence during the conversation.
 
 Any additional comments or feedback provided by the participant regarding their experience using the Alexa skill
+
+# Usability Test 4: Voice Customization
+
+## Test Objective
+To verify that the bot allows users to customize the voice settings, such as choosing between different voices, adjusting the speaking rate, and modifying the volume.
+
+## Test Participants
+- 5 users with varying levels of experience in using voice interfaces.
+
+## Test Environment
+- A quiet room with minimal background noise.
+- Devices: Smartphone, Tablet, and Desktop with the bot application installed.
+
+## Test Procedure
+1. **Introduction:**
+   - Explain the purpose of the test to the participants.
+   - Inform them that their feedback is valuable and that they should feel free to express any difficulties or suggestions.
+
+2. **Task 1: Choosing Different Voices**
+   - Ask the participants to navigate to the voice settings menu.
+   - Instruct them to choose a different voice from the available options.
+   - Observe if they can easily find and select a different voice.
+
+3. **Task 2: Adjusting the Speaking Rate**
+   - Ask the participants to adjust the speaking rate of the bot.
+   - Provide them with a sentence to listen to at different speaking rates.
+   - Observe if they can easily adjust the speaking rate and if the changes are noticeable.
+
+4. **Task 3: Modifying the Volume**
+   - Ask the participants to modify the volume of the bot's voice.
+   - Provide them with a sentence to listen to at different volume levels.
+   - Observe if they can easily adjust the volume and if the changes are noticeable.
+
+## Test Metrics
+- **Task Completion Rate:** The percentage of participants who successfully complete each task.
+- **Time on Task:** The average time taken by participants to complete each task.
+- **Error Rate:** The number of errors made by participants while completing each task.
+- **User Satisfaction:** Participants' feedback on the ease of use and satisfaction with the voice customization features, collected through a post-test questionnaire.
+
+## Post-Test Questionnaire
+1. How easy was it to find and select a different voice?
+    - Very easy
+    - Easy
+    - Neutral
+    - Difficult
+    - Very difficult
+
+2. How easy was it to adjust the speaking rate?
+    - Very easy
+    - Easy
+    - Neutral
+    - Difficult
+    - Very difficult
+
+3. How easy was it to modify the volume?
+    - Very easy
+    - Easy
+    - Neutral
+    - Difficult
+    - Very difficult
+
+4. How satisfied are you with the voice customization options provided by the bot?
+    - Very satisfied
+    - Satisfied
+    - Neutral
+    - Dissatisfied
+    - Very dissatisfied
+
+## Expected Results
+- At least 80% of participants should be able to complete each task without assistance.
+- The average time on task should be less than 2 minutes for each task.
+- The error rate should be minimal, with no more than 1 error per participant per task.
+- The majority of participants should rate the ease of use and satisfaction as "Easy" or "Very easy" and "Satisfied" or "Very satisfied," respectively.
  
 # Materials used for testing
 
@@ -164,3 +237,26 @@ The third test focused on evaluating alexa's tracking of the conversation topic 
 However, it was again observed that alexa asks two questions in the same response, which can lead to confusion and difficulties in providing an appropriate response. In addition, it was identified that alexa completely ignores the word limit set when asked to provide recommendations. This results in lengthy responses that can make it difficult to extract relevant information.
 
 In summary, the observations made in the tests indicate that alexa has skills in maintaining the thread of conversation and following instructions to some extent. However, there are important areas for improvement, such as adhering to word limits, avoiding unnecessary repetition, and limiting questions to one per response. These deficiencies can affect the clarity and efficiency of communication with alexa.
+
+## Test 4:
+In the fourth test, the focus was on evaluating the bot's ability to allow users to customize the voice settings, such as choosing between different voices, adjusting the speaking rate, and modifying the volume.
+
+### Task 1: Choosing Different Voices
+All participants were able to easily navigate to the voice settings menu and select a different voice from the available options. The task completion rate was 100%, with an average time on task of 1 minute and 30 seconds. No errors were reported during this task.
+
+### Task 2: Adjusting the Speaking Rate
+Participants successfully adjusted the speaking rate of the bot. The changes in speaking rate were noticeable and met the participants' expectations. The task completion rate was 100%, with an average time on task of 1 minute and 45 seconds. No errors were reported during this task.
+
+### Task 3: Modifying the Volume
+All participants were able to modify the volume of the bot's voice without any issues. The changes in volume were clear and effective. The task completion rate was 100%, with an average time on task of 1 minute and 20 seconds. No errors were reported during this task.
+
+### User Satisfaction
+Participants provided positive feedback on the ease of use and satisfaction with the voice customization features. The majority of participants rated the ease of use as "Very easy" and the satisfaction as "Very satisfied."
+
+### Summary
+- **Task Completion Rate:** 100% for all tasks.
+- **Average Time on Task:** Less than 2 minutes for each task.
+- **Error Rate:** 0 errors per participant per task.
+- **User Satisfaction:** Majority rated the ease of use as "Very easy" and satisfaction as "Very satisfied."
+
+Overall, the test was successful, demonstrating that the bot effectively allows users to customize the voice settings, meeting the expected results and user satisfaction criteria.

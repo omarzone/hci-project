@@ -27,6 +27,11 @@
 | ⏬ Priority:| Medium |
 | 📝 Description | The bot should be able to adapt to the user's pace and learning style, providing personalized content and adjusting its feedback to address areas where the user needs more help. |
 
+| RF005   | Contextual Feedback on User's Input |  
+|----------|:-------------:|
+| ⏬ Priority:| High |
+| 📝 Description | The bot should analyze the context of the user's input during conversations or activities (e.g., tone, grammar appropriateness, and vocabulary) and provide detailed, context-specific suggestions to enhance the quality of communication. |
+
 ### Non-functional:
 
 | RNF001   | User interface |  
@@ -48,3 +53,8 @@
 |----------|:-------------:|
 | ⏬ Priority:| Medium |
 | 📝 Description | The bot should be adaptable to different devices and platforms, allowing the user to access it on different devices and operating systems. |
+
+| RNF005   | User Experience Consistency |  
+|----------|:-------------:|
+| ⏬ Priority:| High Availability |
+| 📝 Description | The bot should provide a consistent user experience across different devices and platforms, ensuring uniform behavior, interface design, and response quality regardless of the user's operating system or device specifications. |

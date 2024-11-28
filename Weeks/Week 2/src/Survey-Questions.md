@@ -119,3 +119,16 @@ __________________________________________________________________________
     - Yes, definitely.
     - To some extent.
     - No, it has not affected my ability to participate in classes.
+ 
+- How helpful would it be for the bot to provide suggestions based on the context of your input (e.g., tone or vocabulary)?
+    - Extremely helpful.
+    - Somewhat helpful.
+    - Neutral.
+    - Not very helpful.
+    - Not helpful at all.
+ 
+- Which external tools do you find most useful to integrate with the bot?
+    - Video conferencing platforms (Zoom, Google Meet).
+    - Text editing tools (Microsoft Word, Google Docs).
+    - Task management applications (Trello, Notion).
+    - Other (please specify).

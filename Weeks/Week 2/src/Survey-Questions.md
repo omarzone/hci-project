@@ -127,8 +127,9 @@ __________________________________________________________________________
     - Not very helpful.
     - Not helpful at all.
  
-- Which external tools do you find most useful to integrate with the bot?
-    - Video conferencing platforms (Zoom, Google Meet).
-    - Text editing tools (Microsoft Word, Google Docs).
-    - Task management applications (Trello, Notion).
-    - Other (please specify).
+- How important is it for you to have a consistent experience when using the bot across different devices (e.g., phone, tablet, computer)?
+    - Very important.
+    - Important.
+    - Neutral.
+    - Not very important.
+    - Not important at all.

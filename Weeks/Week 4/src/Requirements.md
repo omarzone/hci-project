@@ -27,10 +27,10 @@
 | ⏬ Priority:| Medium |
 | 📝 Description | The bot should be able to adapt to the user's pace and learning style, providing personalized content and adjusting its feedback to address areas where the user needs more help. |
 
-| RF005   | Contextual Feedback on User's Input |  
+| RF005   | Change of voice |  
 |----------|:-------------:|
 | 🔝 Priority:| High |
-| 📝 Description | The bot should analyze the context of the user's input during conversations or activities (e.g., tone, grammar appropriateness, and vocabulary) and provide detailed, context-specific suggestions to enhance the quality of communication. |
+| 📝 Description | The bot must be able to change the selected voice to enhance the quality of communication.|
 
 ### Non-functional:
 

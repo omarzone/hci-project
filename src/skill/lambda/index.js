@@ -202,14 +202,30 @@ const Response10IntentHandler = {
     }
 };
 
+const VolumeControlIntentHandler = {
+    canHandle(handlerInput) {
+        return Alexa.getRequestType(handlerInput.requestEnvelope) === 'IntentRequest'
+            && (Alexa.getIntentName(handlerInput.requestEnvelope) === 'VolumeUpIntent' 
+            || Alexa.getIntentName(handlerInput.requestEnvelope) === 'VolumeDownIntent');
+    },
+    handle(handlerInput) {
+        const intentName = Alexa.getIntentName(handlerInput.requestEnvelope);
+        let speakOutput;
+        
+        if (intentName === 'VolumeUpIntent') {
+            speakOutput = '<prosody volume="x-loud">I\'ve increased my speaking volume. Is this better?</prosody>';
+        } else {
+            speakOutput = '<prosody volume="soft">I\'ve lowered my speaking volume. Is this better?</prosody>';
+        }
 
-
-
+        return handlerInput.responseBuilder
+            .speak(speakOutput)
+            .reprompt('Would you like me to adjust the volume again?')
+            .getResponse();
+    }
+};
 
 // SIMULATED INTENTS
-
-
-
 
 
 
@@ -362,7 +378,7 @@ exports.handler = Alexa.SkillBuilders.custom()
         Response9IntentHandler,
         ResponseRetroIntentHandler,
         Response10IntentHandler,
-        
+        VolumeControlIntentHandler,
         HelloWorldIntentHandler,
         HelpIntentHandler,
         CancelAndStopIntentHandler,

@@ -112,6 +112,20 @@
           "samples": [
             "no thanks"
           ]
+        },
+        {
+          "name": "VolumeUpIntent",
+          "slots": [],
+          "samples": [
+            "can you turn up the volume of your voice?"
+          ]
+        },
+        {
+          "name": "VolumeDownIntent",
+          "slots": [],
+          "samples": [
+            "can you turn down the volume of your voice?"
+          ]
         }
       ],
       "types": []

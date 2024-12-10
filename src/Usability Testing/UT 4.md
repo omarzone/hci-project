@@ -1,42 +1,32 @@
-# Requirement 1:
-The bot must analyze the context of the user's input (e.g., tone, grammar appropriateness, and vocabulary) and provide detailed, context-specific suggestions to enhance the quality of communication.
+# Test Objective:
+To evaluate the effectiveness of the bot's ability to change the selected voice in enhancing the quality of communication and to assess the impact of this feature on the user's conversational experience.
 
-# Test objective:
-To evaluate the effectiveness of the bot's contextual feedback in improving the user's communication skills and to assess the ease of understanding and applying the feedback provided during conversations.
+# Participant Profile:
+University students with varying English proficiency levels, seeking to improve their communication skills by experimenting with different vocal tones and styles during conversations.
 
-# Participant profile:
-University students of varying English proficiency levels, interested in enhancing their grammar, vocabulary, and conversational tone in real-world contexts.
+# Scenario Description:
+Participants use the bot on their preferred device (e.g., smartphone, tablet, or laptop) in a quiet environment. They are prompted to engage in role-play scenarios, such as introducing themselves, explaining a concept, or debating a topic. The bot demonstrates its voice-changing capabilities by adjusting the tone, pitch, or style based on the context and provides feedback on how the selected voice enhances or detracts from the communication.
 
-# Scenario description:
-The participant uses the bot on their preferred device (e.g., smartphone, tablet, or laptop) in a quiet environment. They are prompted to engage in a role-play conversation, such as introducing themselves, explaining a concept, or debating a topic. The bot provides contextual feedback on their responses, identifying areas for improvement and suggesting corrections.
+# Approximate Time for Each Test Section:
+- Introduction and explanation: 5 minutes  
+- Task completion: 20 minutes  
+- Satisfaction survey and feedback collection: 5 minutes  
 
-# Approximate time for each test section:
-Introduction and explanation: 5 minutes
+# Instruments for Gathering Information Before and After the Task:
+- **Pre-test Survey**: Collects data on the participant's familiarity with voice-changing technology and their expectations for its impact on communication.
+- **Post-test Survey**: Evaluates the participant’s satisfaction with the voice-changing feature, their perception of its utility, and suggestions for improvement.
 
-Task completion: 20 minutes
+# Checklist of Items to Be Verified Before Starting the Test:
+- The device (smartphone, tablet, laptop) is functioning properly.  
+- The bot is installed, updated, and operational on the chosen platform.  
+- The internet connection is stable.  
+- The participant understands the instructions and objectives of the test.  
 
-Satisfaction survey and feedback collection: 5 minutes
-
-# Instruments for gathering information before and after the task:
-Pre-test survey: Collects data on the participant's English proficiency and their comfort level in conversations involving contextual nuances.
-
-Post-test survey: Evaluates the participant’s satisfaction with the contextual feedback, their perception of its usefulness, and suggestions for improvement.
-
-# Checklist of items to be verified before starting the test:
-The device (smartphone, tablet, laptop) is functioning properly.
-
-The bot is installed, updated, and operational on the chosen platform.
-
-The internet connection is stable.
-
-The participant understands the instructions and objectives of the test.
-
-# Observation instrument for the measurements to be taken during the test:
-Time spent interacting with the bot.
-
-Participant’s accuracy in implementing contextual feedback provided by the bot.
-
-Ease of understanding and relevance of the bot's suggestions.
+# Observation Instrument for the Measurements to Be Taken During the Test:
+- Time spent interacting with the bot.  
+- Participant’s feedback on the appropriateness of the voice changes for specific scenarios.  
+- Clarity, intelligibility, and emotional impact of the selected voice in enhancing communication quality.  
+- Ease of toggling and experimenting with different voice options.
 
 # Requirement 2:
 The bot should provide a consistent user experience across different devices and platforms, ensuring uniform behavior, interface design, and response quality.

@@ -102,7 +102,7 @@ Error Rate: Only 4% of participants reported minor usability issues.
 
 ## Recommendations
 1. Improve Voice Adjustment Personalization:  
-While most participants found voice changes effective, adjustments can be further tailored to suit different conversational contexts.
+While most participants found voice changes effective, adjustments can be further tailored to suit more different voices.
 
 2. Enhance Mobile Interface:  
 A few participants found executing voice-change features on the smartphone more challenging than on a laptop.

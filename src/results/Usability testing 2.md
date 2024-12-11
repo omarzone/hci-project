@@ -105,9 +105,6 @@ Error Rate: Only 4% of participants reported minor usability issues.
 While most participants found voice changes effective, adjustments can be further tailored to suit different conversational contexts.
 
 2. Enhance Mobile Interface:  
-A few participants found navigating voice-change features on the smartphone more challenging.
-
-3. Reduce Response Times:  
-Optimize response algorithms to ensure voice changes are implemented in under 4 seconds.
+A few participants found executing voice-change features on the smartphone more challenging than on a laptop.
 
 
